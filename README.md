@@ -11,3 +11,6 @@ This project utilizes the `qrcode` library in Python to create QR codes. It allo
 - Generates QR codes from text or URLs.
 - Customizable QR code parameters such as error correction level, box size, and border size.
 - Outputs QR code as an image file.
+
+## Setup
+'pip install qrcode'
