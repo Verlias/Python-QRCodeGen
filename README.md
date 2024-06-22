@@ -13,4 +13,5 @@ This project utilizes the `qrcode` library in Python to create QR codes. It allo
 - Outputs QR code as an image file.
 
 ## Setup
-'pip install qrcode'
+```bash
+pip install qrcode
